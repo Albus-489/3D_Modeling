@@ -1,1 +1,3 @@
-The repository contains branches with directories of my 3D modeling projects. Here you will find both work on tutorials, and those invented by me personally
+## Sea Shack tutorial from 
+
+### https://www.youtube.com/watch?v=Jmir2bDpZA4&list=PLn3ukorJv4vsIOjZoMToZusH2uOyjCu6G&ab_channel=GrantAbbitt
